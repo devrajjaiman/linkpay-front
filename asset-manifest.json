@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linkpay-front/static/css/main.e6c13ad2.css",
+    "main.js": "/linkpay-front/static/js/main.258f3409.js",
+    "static/js/453.93ee95e6.chunk.js": "/linkpay-front/static/js/453.93ee95e6.chunk.js",
+    "index.html": "/linkpay-front/index.html",
+    "main.e6c13ad2.css.map": "/linkpay-front/static/css/main.e6c13ad2.css.map",
+    "main.258f3409.js.map": "/linkpay-front/static/js/main.258f3409.js.map",
+    "453.93ee95e6.chunk.js.map": "/linkpay-front/static/js/453.93ee95e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.258f3409.js"
+  ]
+}
